@@ -1,0 +1,21 @@
+body{ 
+	background-color: darkgrey;
+	margin: 0;
+	font-family: 'Ace Records Regular';
+}
+header{
+background-color: #FF5E37;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 50px;
+font-family: 'Ace Records Regular'
+;
+}
+header h1 {
+	color: white;
+}
+header img{
+	border-radius: 170px;
+    width: 300px;
+    border: 10px solid #900000;
+}
