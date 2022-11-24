@@ -1,21 +1,64 @@
 body{ 
-	background-color: darkgrey;
+	background-color: white;
 	margin: 0;
-	font-family: 'Montserrat' sans-serif;
+	font-family: 'Montserrat';
+	font-size: 20px;
+	line-height: 30px;
 }
+
 header{
 background-color: #FF5E37;
 text-align: center;
 padding-top: 50px;
 padding-bottom: 50px;
-font-family: 'Ace Records Regular'
-;
+font-family: 'Ace Records Regular';
+letter-spacing: 15px;
+font-size: 40px;
+text-shadow: 3px 3px 0px black;
 }
+h2{font-family: 'Oleo Script Swash Caps', cursive;
+letter-spacing: 2px}
 header h1 {
 	color: white;
 }
 header img{
 	border-radius: 170px;
     width: 300px;
-    border: 10px solid #900000;
+    border: 6px solid #f29023;
+}
+
+main{ 
+	max-width: 800px; 
+	margin: 0 auto;
+	padding: 0 20px;
+}
+main img{
+	max-width: 70%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+h2 {font-size: 40px;
+	color: #FF5E37;
+	text-shadow: 2px 0px 0px black;
+}
+
+a{
+	color: #FF5E37;
+}
+
+a:hover{
+	color: #f29023;
+}
+
+footer{
+	background-color: #FF5E37;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
 }
