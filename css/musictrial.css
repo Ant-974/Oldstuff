@@ -1,0 +1,36 @@
+body{ 
+	margin: 0;
+background-color: #313131;
+font-family: 'Montserrat';
+color: #00ad58;
+line-height: 20px;
+
+ }
+ header{
+text-align: center;
+font-family: 'Oleo Script Swash Caps', cursive;
+font-size: 35px;
+letter-spacing: 3px;
+line-height: 75px;
+text-overflow: initial;
+
+ }
+ header img {
+ margin: 0;
+ background-size: cover;
+ background-repeat: no-repeat;
+ padding: 0px 5px 0px 5px;
+ max-width: 100%;
+ height: auto;
+ width: auto\9;
+ }
+
+ a{ color: lightyellow;
+ 	line-height: 30px;
+
+ }
+ 
+ a:hover{
+color: orange;
+
+ }
