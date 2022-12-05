@@ -43,6 +43,21 @@ color: orange;
  .myDiv1 { line-height: 25px;
   }
 
+  #col1 { color: orange;
+  font-size: 20px;
+  border: 2px;
+  border-color: red; }
+
+  #col2 { color:yellow;
+  font-size:22px;
+  border: 2px;
+  border-color: orange; }
+
+  #col3 { color:red;
+  font-size:24px;
+  border: 2px;
+  border-color: yellow; }
+
 footer{
 background-color: #c7ec6e;
 padding: 50px;
